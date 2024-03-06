@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **From**: China &#x1F1E8;&#x1F1F3;<br/>
-**Academic interest**
+**Academic interest**<br/>
 Artificial Intelligence &#x1F9E0; 
 Embodied AI &#x1F916;
 Computer Vision &#x1F441;&#xFE0F;

@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Ruizhe Liu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+From: China &#x1F1E8;&#x1F1F3;
+Academic interest:
+Artificial Intelligence &#x1F9E0; 
+Embodied AI &#x1F916;
+Computer Vision &#x1F441;&#xFE0F;
+Computer Science &#x1F5A5;
+Other interest: Music &#x1F3B5;, Especially singing &#x1F3A4;. <br/>
 
 FUCK YOU
 

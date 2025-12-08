@@ -9,22 +9,6 @@ redirect_from:
 
 I'm a PhD candidate at the [HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk), The University of Hong Kong, where I work under the supervision of [Prof. Yanchao Yang](https://yanchaoyang.github.io) and [Prof. Yi Ma](https://www.cs.hku.hk/index.php/people/academic-staff/mayi). My research lies at the intersection of **machine learning** and **robotics**, with a particular focus on enabling robots to learn complex manipulation skills from demonstrations.
 
-## 🎓 Education
-<img src="../images/HKU.png" style="max-width: 339px; max-height: 72px; margin-right: 8px;">
-<br>
-<br>
-**PhD in Data Science** (2024 - 2028 Expected)  
-The University of Hong Kong, Hong Kong SAR
-- Funded by the **Hong Kong PhD Fellowship Scheme**
-- Also recognized as **HKU Presidential PhD Scholar**
-
-<br>
-
-<img src="../images/PKU_logo.png" style="max-width: 256px; max-height: 72px; margin-right: 8px;">
-<br>
-<br>
-**Bachelor of Science in Information and Computing Science** (2020 - 2024)  
-Peking University, Beijing, China
 
 ## 🔬 Research Interests
 ***Do you think that natural language is the most suitable language for robots?***
@@ -40,6 +24,23 @@ I believe robots need **their own representation system**—one that is naturall
 - **Hierarchical Learning**: Robots learn manipulation primitives and compose them into complex skills, creating structured knowledge systems for skill acquisition and sharing
 
 - **Robust Manipulation**: Systems that generalize across unstructured environments, ensuring learned representations remain useful and transferable
+
+
+## 🎓 Education
+<img src="../images/HKU.png" style="max-width: 339px; max-height: 72px; margin-right: 8px;">
+<br>
+<br>
+**PhD in Data Science** (2024 - 2028 Expected)  
+The University of Hong Kong, Hong Kong SAR
+- Funded by the **Hong Kong PhD Fellowship Scheme**
+- Also recognized as **HKU Presidential PhD Scholar**
+
+
+<img src="../images/PKU_logo.png" style="max-width: 256px; max-height: 72px; margin-right: 8px;">
+<br>
+<br>
+**Bachelor of Science in Information and Computing Science** (2020 - 2024)  
+Peking University, Beijing, China
 
 
 <!-- Getting started

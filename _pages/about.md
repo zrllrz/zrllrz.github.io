@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the [HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk), The University of Hong Kong, where I work under the supervision of Prof. Yanchao Yang. My research lies at the intersection of **machine learning** and **robotics**, with a particular focus on enabling robots to learn complex manipulation skills from demonstrations.
+I'm a PhD candidate at the [HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk), The University of Hong Kong, where I work under the supervision of Prof. Yanchao Yang and Prof. Yi Ma. My research lies at the intersection of **machine learning** and **robotics**, with a particular focus on enabling robots to learn complex manipulation skills from demonstrations.
 
 ## 🎓 Education
 

@@ -11,14 +11,14 @@ I'm a PhD candidate at the [HKU Musketeers Foundation Institute of Data Science]
 
 ## 🎓 Education
 
-<img src="../images/HKU_bilingual_logo.png" style="max-width: 320px; margin-right: 8px">
+<img src="../images/HKU_bilingual_logo.png" style="max-width: 96px; max-height: 96px; margin-right: 8px;">
 <br>
 **PhD in Data Science** (2024 - 2028 Expected)  
 The University of Hong Kong, Hong Kong SAR
 - Funded by the prestigious Hong Kong PhD Fellowship Scheme
 - Also recognized as HKU Presidential PhD Scholar
 
-<img src="../images/Peking_University_seal.svg" style="max-height: 96px; margin-right: 8px">
+<img src="../images/Peking_University_seal.svg" style="max-width: 96px; max-height: 96px; margin-right: 8px;">
 <br>
 **Bachelor of Science in Information and Computing Science** (2020 - 2024)  
 Peking University, Beijing, China

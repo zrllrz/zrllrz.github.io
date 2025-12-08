@@ -32,11 +32,9 @@ I believe robots need **their own representation system**—one that is naturall
 <br>
 **PhD in Data Science** (2024 - 2028 Expected)  
 The University of Hong Kong, Hong Kong SAR
-<ul style="line-height: 2;">
 - Funded by the Hong Kong PhD Fellowship Scheme**
 - Also recognized as **HKU Presidential PhD Scholar**
-</ul>
-
+<br>
 
 <img src="../images/PKU_logo.png" style="max-width: 256px; max-height: 72px; margin-right: 8px;">
 <br>

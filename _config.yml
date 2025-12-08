@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "head2.png"
   name             : "Ruizhe Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his" # example: "she/her"  
   bio              : ""
-  location         : ""
-  employer         : "Peking University"
+  location         : "Hong Kong"
+  employer         : "University of Hong Kong"
   uri              : # URL
-  email            : "lrz360@stu.pku.edu.cn" 
+  email            : "zrllrz360@connect.hku.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=cHY_UJ8AAAAJ&hl"
   impactstory      : # URL
   orcid            : ""
   pubmed           : ""

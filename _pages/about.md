@@ -10,14 +10,14 @@ redirect_from:
 I'm a PhD candidate at the [HKU Musketeers Foundation Institute of Data Science](https://datascience.hku.hk), The University of Hong Kong, where I work under the supervision of Prof. Yanchao Yang and Prof. Yi Ma. My research lies at the intersection of **machine learning** and **robotics**, with a particular focus on enabling robots to learn complex manipulation skills from demonstrations.
 
 ## 🎓 Education
-------
+==
 <img src="../images/HKU_bilingual_logo.png" style="max-width: 276px; max-height: 96px; margin-right: 8px;">
 <br>
 **PhD in Data Science** (2024 - 2028 Expected)  
 The University of Hong Kong, Hong Kong SAR
 - Funded by the **Hong Kong PhD Fellowship Scheme**
 - Also recognized as **HKU Presidential PhD Scholar**
-==
+
 <img src="../images/Peking_University_seal.svg" style="max-width: 72px; max-height: 72px; margin-right: 8px;">
 <br>
 <br>
@@ -25,7 +25,7 @@ The University of Hong Kong, Hong Kong SAR
 Peking University, Beijing, China
 
 ## 🔬 Research Interests
-------
+==
 ***Do you think that natural language is the most suitable language for robots?***
 
 I believe robots need **their own representation system**—one that is naturally suited for learning skills and sharing knowledge, rather than relying solely on human-centric abstractions. My research explores how robots can develop this autonomous knowledge system for increasingly intelligent behavior.

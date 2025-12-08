@@ -7,14 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-**Location**: Hong Kong
-**Current**: PhD at HKU
-**Academic interest** Robotics; Embodied AI; Computer Vision; Artificial Intelligence; Computer Science
+I'm a PhD candidate at the [HKU Musketeers Foundation Institute of Data Science](https://www.ids.hku.hk/), The University of Hong Kong, where I work under the supervision of Prof. Yanchao Yang. My research lies at the intersection of **machine learning** and **robotics**, with a particular focus on enabling robots to learn complex manipulation skills from demonstrations.
 
-Current Research Focus
-======
-# Do you think that natural language is the most suitable language for robots?
-Our aim is to explore the representation system which is more suitable for helping robot learning skills and sharing knowledges. Intuitively, we hope we can make robots have its own knowledge system for sharing, and carry out more and more autonoumous learning based on this knowledge system.
+## 🎓 Education
+
+**PhD in Data Science** (2024 - 2028 Expected)  
+The University of Hong Kong, Hong Kong SAR  
+- Current GPA: 3.97/4.00
+- Funded by the prestigious Hong Kong PhD Fellowship Scheme
+- Also recognized as HKU Presidential PhD Scholar
+
+**Bachelor of Science in Information and Computing Science** (2020 - 2024)  
+Peking University, Beijing, China
+
+## 🔬 Research Interests
+
+***Do you think that natural language is the most suitable language for robots?***
+
+I believe robots need **their own representation system**—one that is naturally suited for learning skills and sharing knowledge, rather than relying solely on human-centric abstractions. My research explores how robots can develop this autonomous knowledge system for increasingly intelligent behavior.
+
+**The Core Vision**: Enable robots to discover, represent, and share knowledge in ways that are grounded in their sensorimotor experience, building structures that support efficient learning and knowledge transfer across tasks.
+
+**My Research Focuses On**:
+
+- **Concept Discovery**: Automatical discovery of task-relevant concepts from unlabeled demonstrations, learning representations grounded in their own sensorimotor experience
+
+- **Hierarchical Learning**: Robots learn manipulation primitives and compose them into complex skills, creating structured knowledge systems for skill acquisition and sharing
+
+- **Robust Manipulation**: Systems that generalize across unstructured environments, ensuring learned representations remain useful and transferable
+
 
 <!-- Getting started
 ======

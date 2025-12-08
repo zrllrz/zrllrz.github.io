@@ -2,7 +2,7 @@
 title: "HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data"
 collection: publications
 permalink: /publication/HiMaCon
-excerpt: 'This paper introduces a self-supervised framework that leverages cross-modal sensory correlations and multi-level temporal abstractions to learn hierarchical manipulation concepts, enabling robots to achieve superior generalization and performance in complex tasks without human annotation.'
+excerpt: 'HiMaCon is a self-supervised framework that learns hierarchical "manipulation concepts" from unlabeled multi-modal robot demonstrations without human annotation.'
 date: 2025-09-19
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/pdf/2510.11321'

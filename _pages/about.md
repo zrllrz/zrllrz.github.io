@@ -20,8 +20,8 @@ The University of Hong Kong, Hong Kong SAR
 
 <br><br>
 
-<img src="../images/Peking_University_seal.svg" style="max-width: 80px; max-height: 80px; margin-right: 8px;">
-<br>
+<img src="../images/Peking_University_seal.svg" style="max-width: 72px; max-height: 72px; margin-right: 8px;">
+<br><br>
 **Bachelor of Science in Information and Computing Science** (2020 - 2024)  
 Peking University, Beijing, China
 

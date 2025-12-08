@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/HiMaCon
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 2025-09-19
+venue: 'NeurIPS'
+paperurl: 'https://arxiv.org/pdf/2510.11321'
+citation: 'Liu, Ruizhe, et al. "$\textit {HiMaCon:} $ Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data." The Thirty-ninth Annual Conference on Neural Information Processing Systems.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Effective generalization in robotic manipulation requires representations that capture invariant patterns of interaction across environments and tasks. We present a self-supervised framework for learning hierarchical manipulation concepts that encode these invariant patterns through cross-modal sensory correlations and multi-level temporal abstractions without requiring human annotation.
+Our approach combines a cross-modal correlation network that identifies persistent patterns across sensory modalities with a multi-horizon predictor that organizes representations hierarchically across temporal scales. Manipulation concepts learned through this dual structure enable policies to focus on transferable relational patterns while maintaining awareness of both immediate actions and longer-term goals. Empirical evaluation across simulated benchmarks and real-world deployments demonstrates significant performance improvements with our concept-enhanced policies.  Analysis reveals that the learned concepts resemble human-interpretable manipulation primitives despite receiving no semantic supervision. This work advances both the understanding of representation learning for manipulation and provides a practical approach to enhancing robotic performance in complex scenarios.
+Code is available at: [https://github.com/zrllrz/HiMaCon](\texttt{https://github.com/zrllrz/HiMaCon).

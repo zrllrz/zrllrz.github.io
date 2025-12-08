@@ -21,7 +21,7 @@ repository               : "zrllrz/zrllrz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./head2.png"
+  avatar           : "github.jpeg"
   name             : "Ruizhe Liu"
   pronouns         : "he/his" # example: "she/her"  
   bio              : ""

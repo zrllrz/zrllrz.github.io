@@ -19,7 +19,7 @@ The University of Hong Kong, Hong Kong SAR
 
 <br>
 
-<img src="../images/PKU_logo.png" style="max-width: 72px; max-height: 72px; margin-right: 8px;">
+<img src="../images/PKU_logo.png" style="max-width: 256px; max-height: 72px; margin-right: 8px;">
 <br>
 <br>
 **Bachelor of Science in Information and Computing Science** (2020 - 2024)  

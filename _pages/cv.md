@@ -26,9 +26,8 @@ Work experience
   
 Skills
 ======
-* **Machine Learning & AI PyTorch**: JAX, TensorFlow, etc.
-* **Programming Languages Python**: C/C++, CUDA, Arduino, etc.
-* **Development Tools Git/GitHub**: Docker, Weights & Biases, etc.
+* **Machine Learning & AI**: PyTorch, JAX, TensorFlow, etc.
+* **Programming Languages**: Python, C/C++, CUDA, Arduino, etc.
 
 Publications
 ======

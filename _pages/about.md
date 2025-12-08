@@ -17,6 +17,7 @@ I'm a PhD candidate at the [HKU Musketeers Foundation Institute of Data Science]
 The University of Hong Kong, Hong Kong SAR
 - Funded by the **Hong Kong PhD Fellowship Scheme**
 - Also recognized as **HKU Presidential PhD Scholar**
+
 <br>
 <img src="../images/Peking_University_seal.svg" style="max-width: 72px; max-height: 72px; margin-right: 8px;">
 <br>
@@ -34,7 +35,7 @@ I believe robots need **their own representation system**—one that is naturall
 
 **My Research Focuses On**:
 
-- **Concept Discovery**: Automatical discovery of task-relevant concepts from unlabeled demonstrations, learning representations grounded in their own sensorimotor experience
+- **Concept Learning**: Automatical discovery of task-relevant concepts from unlabeled demonstrations, learning representations grounded in their own sensorimotor experience
 
 - **Hierarchical Learning**: Robots learn manipulation primitives and compose them into complex skills, creating structured knowledge systems for skill acquisition and sharing
 

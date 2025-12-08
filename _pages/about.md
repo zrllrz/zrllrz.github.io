@@ -17,6 +17,8 @@ The University of Hong Kong, Hong Kong SAR
 - Funded by the **Hong Kong PhD Fellowship Scheme**
 - Also recognized as **HKU Presidential PhD Scholar**
 
+<br>
+
 <img src="../images/PKU_logo.png" style="max-width: 72px; max-height: 72px; margin-right: 8px;">
 <br>
 <br>

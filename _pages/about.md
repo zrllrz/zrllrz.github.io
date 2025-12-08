@@ -18,7 +18,9 @@ The University of Hong Kong, Hong Kong SAR
 - Funded by the prestigious Hong Kong PhD Fellowship Scheme
 - Also recognized as HKU Presidential PhD Scholar
 
-<img src="../images/Peking_University_seal.svg" style="max-width: 96px; max-height: 96px; margin-right: 8px;">
+<br><br>
+
+<img src="../images/Peking_University_seal.svg" style="max-width: 80px; max-height: 80px; margin-right: 8px;">
 <br>
 **Bachelor of Science in Information and Computing Science** (2020 - 2024)  
 Peking University, Beijing, China

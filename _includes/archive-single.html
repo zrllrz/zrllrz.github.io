@@ -28,7 +28,7 @@
 
     {% if post.teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ post.teaser | prepend: '/images/publications/' | prepend: base_path }}" 
+        <img src="{{ post.teaser | prepend: '/images/' | prepend: base_path }}" 
              alt="{{ post.title }}" 
              itemprop="image">
       </div>

@@ -7,7 +7,7 @@ date: 2025-09-19
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/pdf/2510.11321'
 citation: 'Liu, Ruizhe, et al. "$\textit {HiMaCon:} $ Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data." The Thirty-ninth Annual Conference on Neural Information Processing Systems.'
-teaser: 'HiMaCon-teaser.jpg'  # Add this line
+teaser: 'HiMaCon-teaser.jpeg'  # Add this line
 ---
 
 Effective generalization in robotic manipulation requires representations that capture invariant patterns of interaction across environments and tasks. We present a self-supervised framework for learning hierarchical manipulation concepts that encode these invariant patterns through cross-modal sensory correlations and multi-level temporal abstractions without requiring human annotation.

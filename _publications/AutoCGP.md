@@ -1,5 +1,5 @@
 ---
-title: "AutoCGP: Closed-Loop Concept-Guided Policies from Unlabeled Demonstrations."
+title: "AutoCGP: Closed-Loop Concept-Guided Policies from Unlabeled Demonstrations"
 collection: publications
 permalink: /publication/AutoCGP
 excerpt: 'AutoCGP is a framework for training robots to perform complex manipulation tasks by automatically discovering and using "manipulation concepts" (motor skills like grasping, pushing, etc.) without human annotations.'
